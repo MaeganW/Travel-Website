@@ -11,4 +11,11 @@
         background-color: $mainBlue;
         color: #fff;
     }
+    
+    &--testimonials {
+        background: url('/assets/images/testimonials-bg.jpg'); 
+        background-position: top center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 }
